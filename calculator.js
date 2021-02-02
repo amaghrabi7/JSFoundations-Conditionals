@@ -6,3 +6,4 @@ if (Operation == "Multiplication") {
     console.log(FirstNumber * SecondNumber);
 }
 
+debugger
